@@ -251,8 +251,6 @@ Website memberikan informasi tentang admin secara jelas.
 
 Performance Requirements
 
-Safety Requirements
-
 Security Requirements
 
 Menerapkan mekanisme dan otoritas yang kuat dan otoritas akses yang tepat untuk memastikan hanya pengguna yang berwenang yang dapat mengakses.
@@ -261,36 +259,15 @@ membatasi jumlah percobaan masuk yang gagal untuk mencegah serangan berulang-ula
 
 melakukan pembaruan perangkat lunak secara teratur untuk mengatasi kerentanan keamanan yang ditentukan
 
-
 Safety Requirements
-<Specify those requirements that are concerned with possible loss, damage, or harm that could result from the use of the product. Define any safeguards or actions that must be taken, as well as actions that must be prevented. Refer to any external policies or regulations that state safety issues that affect the product’s design or use. Define any safety certifications that must be satisfied.>
-Security Requirements
-<Specify any requirements regarding security or privacy issues surrounding use of the product or protection of the data used or created by the product. Define any user identity authentication requirements. Refer to any external policies or regulations containing security issues that affect the product. Define any security or privacy certifications that must be satisfied.>
+
 Software Quality Attributes
-<Specify any additional quality characteristics for the product that will be important to either the customers or the developers. Some to consider are: adaptability, availability, correctness, flexibility, interoperability, maintainability, portability, reliability, reusability, robustness, testability, and usability. Write these to be specific, quantitative, and verifiable when possible. At the least, clarify the relative preferences for various attributes, such as ease of use over ease of learning.>
-Business Rules
-<List any operating principles about the product, such as which individuals or roles can perform which functions under specific circumstances. These are not functional requirements in themselves, but they may imply certain functional requirements to enforce the rules.>
+
 Other Requirements
-<Define any other requirements not covered elsewhere in the SRS. This might include database requirements, internationalization requirements, legal requirements, reuse objectives for the project, and so on. Add any new sections that are pertinent to the project.>
-Appendix A: Glossary
-<Define all the terms necessary to properly interpret the SRS, including acronyms and abbreviations. You may wish to build a separate glossary that spans multiple projects or the entire organization, and just include terms specific to a single project in each SRS.>
 
 Appendix B: Analysis Models
 Use Case Diagram
 
-
-
-
-
-
-
-
-
-
-
-
-
 Flowchart 
 
 Appendix C: To Be Determined List
-<Collect a numbered list of the TBD (to be determined) references that remain in the SRS so they can be tracked to closure.>

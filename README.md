@@ -204,9 +204,8 @@ Web Hosting
 Berfungsi untuk pengelolaan dan penyimpanan database
 
 Communications Interfaces
-<Describe the requirements associated with any communications functions required by this product, including e-mail, web browser, network server communications protocols, electronic forms, and so on. Define any pertinent message formatting. Identify any communication standards that will be used, such as FTP or HTTP. Specify any communication security or encryption issues, data transfer rates, and synchronization mechanisms.>
-System Features
-<This template illustrates organizing the functional requirements for the product by system features, the major services provided by the product. You may prefer to organize this section by use case, mode of operation, user class, object class, functional hierarchy, or combinations of these, whatever makes the most logical sense for your product.>
+
+Website Pribadi ini membutuhkan android, IOS, atau PC yang terhubung ke jaringan internet.
 
 System Features
 
@@ -236,11 +235,15 @@ Contact
 
 Other Nonfunctional Requirements
 
+Performance Requirements
+
 Kinerja website akan lancar bila kecepatan internet pengguna stabil.
 
 Website memberikan informasi tentang admin secara jelas.
 
-Performance Requirements
+Safety Requirements
+
+Tingkat akses yang sesuai untuk setiap jenis pengguna dan batasi akses ke informasi hanya pada yang diperlukan.
 
 Security Requirements
 
@@ -250,9 +253,34 @@ membatasi jumlah percobaan masuk yang gagal untuk mencegah serangan berulang-ula
 
 melakukan pembaruan perangkat lunak secara teratur untuk mengatasi kerentanan keamanan yang ditentukan
 
-Safety Requirements
-
 Software Quality Attributes
+Keamanan (Security):
+
+Perlindungan data pribadi pengguna
+
+Performa (Performance):
+
+Responsif dan cepat dalam memuat halaman dan konten.
+
+Ketersediaan tinggi (uptime) untuk memastikan aksesibilitas kontinu.
+
+Optimalisasi ukuran dan kecepatan loading halaman untuk mendukung pengalaman pengguna yang baik.
+
+Ketersediaan (Availability):
+
+Ketersediaan tinggi (99,9% atau lebih) untuk memastikan aksesibilitas yang maksimal.
+
+Perencanaan untuk pemeliharaan terjadwal tanpa mengganggu layanan utama.
+
+Reliabilitas (Reliability):
+
+Ketahanan terhadap kegagalan server atau komponen lainnya.
+
+Mudah Digunakan (Usability):
+
+Antarmuka pengguna yang intuitif dan ramah pengguna.
+
+Navigasi yang mudah dan efisien.
 
 Other Requirements
 
@@ -265,7 +293,5 @@ Use Case Diagram
 Flowchart 
 
 ![WhatsApp Image 2023-09-07 at 14 53 14 (1)](https://github.com/ayyubfaraby/pemweb/assets/124480416/14b9dd1a-fd27-4b36-9516-b9e9f27e7877)
-
-
 
 Appendix C: To Be Determined List

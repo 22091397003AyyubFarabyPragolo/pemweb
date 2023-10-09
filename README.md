@@ -154,58 +154,15 @@ Ketergantungan terhadap WhatsApp Business API untuk bisa menghubungi admin.
 External Interface Requirements
 User Interfaces
 Antarmuka Halaman Home
-
+![1](https://github.com/ayyubfaraby/pemweb/assets/144451923/2950895a-fda9-4319-ac29-b16304a66330)
 Antarmuka Halaman Tentang saya
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+![image](https://github.com/ayyubfaraby/pemweb/assets/144451923/f8595bdb-0c71-451f-bdc5-a1092ae1bb83)
 Antarmuka Halaman Portofolio
-
-
-
-
-
-
-
-
-
-
-
-
-
+![image](https://github.com/ayyubfaraby/pemweb/assets/144451923/5f2b5ea8-c950-452e-a4ea-8d6e05bc5a34)
 Antarmuka Halaman Blog
-
-
-
+![image](https://github.com/ayyubfaraby/pemweb/assets/144451923/c5ea581b-958c-48fd-b2c8-8c6c99642d88)
 Antarmuka Halaman Contact
-
+![image](https://github.com/ayyubfaraby/pemweb/assets/144451923/3baebe94-e79a-4a37-9698-8ff821e8d658)
 
 
 Hardware Interfaces

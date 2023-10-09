@@ -157,7 +157,7 @@ User Interfaces
 Antarmuka Halaman Home
 
 
-![1](https://github.com/ayyubfaraby/pemweb/assets/144451923/2950895a-fda9-4319-ac29-b16304a66330)
+  ![1](https://github.com/ayyubfaraby/pemweb/assets/144451923/2950895a-fda9-4319-ac29-b16304a66330)
 
 
 Antarmuka Halaman Tentang saya

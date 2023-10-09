@@ -244,9 +244,22 @@ Contact
   Halaman ini digunakan untuk menghubungi pemilik website untuk membantu membangun dan memperluas jaringan profesional dan personal.
 
 Other Nonfunctional Requirements
-Performance Requirements
+
 Kinerja website akan lancar bila kecepatan internet pengguna stabil.
+
 Website memberikan informasi tentang admin secara jelas.
+
+Performance Requirements
+
+Safety Requirements
+
+Security Requirements
+
+Menerapkan mekanisme dan otoritas yang kuat dan otoritas akses yang tepat untuk memastikan hanya pengguna yang berwenang yang dapat mengakses.
+
+membatasi jumlah percobaan masuk yang gagal untuk mencegah serangan berulang-ulang
+
+melakukan pembaruan perangkat lunak secara teratur untuk mengatasi kerentanan keamanan yang ditentukan
 
 
 Safety Requirements

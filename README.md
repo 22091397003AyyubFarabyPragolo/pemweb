@@ -258,7 +258,9 @@ Other Requirements
 
 Appendix B: Analysis Models
 Use Case Diagram
+![WhatsApp Image 2023-09-06 at 18 46 41](https://github.com/ayyubfaraby/pemweb/assets/124480416/c9a4493b-b75e-452e-830c-349f4b747322)
 
 Flowchart 
+![WhatsApp Image 2023-09-07 at 14 53 14 (1)](https://github.com/ayyubfaraby/pemweb/assets/124480416/14b9dd1a-fd27-4b36-9516-b9e9f27e7877)
 
 Appendix C: To Be Determined List

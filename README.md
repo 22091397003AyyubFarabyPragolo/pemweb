@@ -220,23 +220,23 @@ System Feature 1
 System Features
 
 Home Page
-Halaman utama menampilkan berbagai fitur sebagai berikut:
+  Halaman utama menampilkan berbagai fitur sebagai berikut:
 Tentang Saya
 Portofolio
 Blog
 Contact
 
 Tentang Saya
-Halaman ini berisi tentang informasi pemiliknya seperti, biodata, pekerjaan, karakteristik, pengalaman pekerjaan, minat, dan hobi. Tentang Saya ini juga berfungsi untuk identitas online.
+  Halaman ini berisi tentang informasi pemiliknya seperti, biodata, pekerjaan, karakteristik, pengalaman pekerjaan, minat, dan hobi. Tentang Saya ini juga berfungsi untuk identitas online.
 
 Portofolio
-Halaman ini  menampilkan portofolio karya atau pencapaian.
+  Halaman ini  menampilkan portofolio karya atau pencapaian.
 
 Blog
-Halaman ini menampilkan berbagi informasi terkait bidang tertentu, bisa berupa blog pribadi.
+  Halaman ini menampilkan berbagi informasi terkait bidang tertentu, bisa berupa blog pribadi.
 
 Contact
-Halaman ini digunakan untuk menghubungi pemilik website untuk membantu membangun dan memperluas jaringan profesional dan personal.
+  Halaman ini digunakan untuk menghubungi pemilik website untuk membantu membangun dan memperluas jaringan profesional dan personal.
 
 Other Nonfunctional Requirements
 Performance Requirements

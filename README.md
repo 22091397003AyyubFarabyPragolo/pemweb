@@ -366,6 +366,27 @@ B.  Penjelasan HTML Laman BLOG
 22. Sedangkan untuk "footer" digunakan untuk mendefinisikan footer halaman web
 23. "hr" elemen garis horizontal untuk membuat garis pemisah
 
+C.  Penjelasan HTML Laman CONTACT
+
+  ![image](https://github.com/ayyubfaraby/pemweb/assets/144451923/8d1b3fad-cce4-4d55-8037-509ba85c6da6)
+  
+1. Pada bagian ini merupakan kerangka dasar atau kepala dari sebuah halaman web 
+2. pada baris "!DOCTYPE html" menunjukan bahwasanya dokumen ini berupa dokumen HTML
+3. "html lang=”en”" elemen yang mengindikasi bahwa dokumen yang digunakan menggunakan bahasa inggris
+4. "head" pada elemen ini memuat tentang informasi tentang dokumen yang dari eksternal seperti css
+5. "meta charset=”UTF 8”" sebuah elemen yang mengindikasi penggunaan karakter encoding(proses konversi teks) UTF-8 (Unicode Transformation Format- 8-bit) yang mendukung untuk karakter internasional dalam dokumen
+6. "meta name="viewport" content="width=device-width, initial-scale=1.0"" elemen yang dipakai untuk mengontrol tampilan laman web dan digunakan untuk mengatur lebar tampilan sesuai dengan lebar perangkat
+7. "title>About</title" pada codingan ini adalah untuk menentukan judul apa yang akan digunakan dalam sebuah laman web yang akan ditampilkan dan pada penjelasan memberikan judul pada laman web ini adalah contact
+8. Sedangkan disitu terdapat "https://wa.me/0812345666" maka secara otomatis akan mengarahkan kedalam no Wa tersebut
+9. "link rel="stylesheet" href="style.css"" codingan yang digunakan untuk menggabungkan file eksternal  antara codingan CSS dan HTML
+10. lalu sebagai penutup pada bagian kepala HTML ini menggunakan "/head"
+
+
+
+
+
+
+
 
 
 

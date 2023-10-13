@@ -327,7 +327,7 @@ A. Penjelasan HTML Laman ABOUT
   ![image](https://github.com/ayyubfaraby/pemweb/assets/144451923/3cb81f72-b4c8-4a37-b8b4-63b197d0f35e)
 
 17. lalu pada baris ke 26 memiliki elemen <div> yang digunakan untuk mengelompokan sebuah konten atau isi yang akan ditampilkan menjadi 1 tempat blok yang sama dan memungkinkan untuk mengatur isi lebih baik
-18. lalu untuk elemen <p class=”center-text”> untuk membuat sebuah paragraf menjadi di tengah
+18. lalu untuk elemen <p class=”center-text”>  untuk membuat sebuah paragraf menjadi di tengah
 
 
 

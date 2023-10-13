@@ -295,3 +295,22 @@ Flowchart
 ![WhatsApp Image 2023-09-07 at 14 53 14 (1)](https://github.com/ayyubfaraby/pemweb/assets/124480416/14b9dd1a-fd27-4b36-9516-b9e9f27e7877)
 
 Appendix C: To Be Determined List
+
+
+
+PENJELASAN CODINGAN
+
+A. Penjelasan HTML Laman ABOUT
+
+  ![image](https://github.com/ayyubfaraby/pemweb/assets/144451923/aa1cfa91-62a5-4ee5-9106-ed0a5a103db2)
+
+1. Pada bagian ini merupakan kerangka dasar atau kepala dari sebuah halaman web
+2. pada baris <!DOCTYPE html> menunjukan bahwasanya dokumen ini berupa dokumen HTML
+3. <html lang=”en”> elemen yang mengindikasi bahwa dokumen yang digunakan menggunakan bahasa inggris
+4. <head> pada elemen ini memuat tentang informasi tentang dokumen yang dari eksternal seperti css
+5. <meta charset=”UTF 8”> sebuah elemen yang mengindikasi penggunaan karakter encoding(proses konversi teks) UTF-8 (Unicode Transformation Format- 8-bit) yang mendukung untuk karakter internasional dalam dokumen
+6. 
+
+
+
+

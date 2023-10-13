@@ -305,7 +305,7 @@ A. Penjelasan HTML Laman ABOUT
   ![image](https://github.com/ayyubfaraby/pemweb/assets/144451923/aa1cfa91-62a5-4ee5-9106-ed0a5a103db2)
 
 1. Pada bagian ini merupakan kerangka dasar atau kepala dari sebuah halaman web
-2. pada baris "<!DOCTYPE html>" menunjukan bahwasanya dokumen ini berupa dokumen HTML
+2. pada baris "!DOCTYPE html" menunjukan bahwasanya dokumen ini berupa dokumen HTML
 3. "<html lang=”en”>" elemen yang mengindikasi bahwa dokumen yang digunakan menggunakan bahasa inggris
 4. "<head>" pada elemen ini memuat tentang informasi tentang dokumen yang dari eksternal seperti css
 5. "<meta charset=”UTF 8”>" sebuah elemen yang mengindikasi penggunaan karakter encoding(proses konversi teks) UTF-8 (Unicode Transformation Format- 8-bit) yang mendukung untuk karakter internasional dalam dokumen

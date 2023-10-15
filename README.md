@@ -385,28 +385,28 @@ C.  Penjelasan HTML Laman CONTACT
   
   ![index html 1](https://github.com/ayyubfaraby/pemweb/assets/124480416/37067c38-da58-4b42-8367-bbb1fc60c990)
 
-1.	<!DOCTYPE html>: Mendefinisikan versi HTML yang digunakan oleh halaman web ini. Dalam hal ini, itu adalah dokumen HTML versi standar.
-2.	<html lang="en">: Membuka elemen HTML dan menentukan bahasa (English) yang akan digunakan dalam halaman web.
-3.	<head>: Bagian ini berisi informasi tentang dokumen seperti meta tag (seperti karakter set dan viewport), judul halaman, dan referensi ke file eksternal seperti stylesheet.
-4.	<meta charset="UTF-8">: Menentukan karakter set yang akan digunakan, dalam hal ini UTF-8 (Unicode Transformation Format - 8 bit).
-5.	<meta name="viewport" content="width=device-width, initial-scale=1.0">: Mengatur tampilan halaman agar sesuai dengan lebar perangkat dan menentukan skala awal halaman.
-6.	<title>Halaman Utama</title>: Menentukan judul halaman web yang akan muncul di bilah judul browser.
-7.	<link rel="stylesheet" href="style.css">: Menghubungkan halaman dengan file eksternal style.css yang akan mengatur tata letak dan tampilan halaman.
+1.	"!DOCTYPE html": Mendefinisikan versi HTML yang digunakan oleh halaman web ini. Dalam hal ini, itu adalah dokumen HTML versi standar.
+2.	"html lang="en"": Membuka elemen HTML dan menentukan bahasa (English) yang akan digunakan dalam halaman web.
+3.	"head": Bagian ini berisi informasi tentang dokumen seperti meta tag (seperti karakter set dan viewport), judul halaman, dan referensi ke file eksternal seperti stylesheet.
+4.	"meta charset="UTF-8"": Menentukan karakter set yang akan digunakan, dalam hal ini UTF-8 (Unicode Transformation Format - 8 bit).
+5.	"meta name="viewport" content="width=device-width, initial-scale=1.0"": Mengatur tampilan halaman agar sesuai dengan lebar perangkat dan menentukan skala awal halaman.
+6.	"titleHalaman Utama/title": Menentukan judul halaman web yang akan muncul di bilah judul browser.
+7.	"link rel="stylesheet" href="style.css"": Menghubungkan halaman dengan file eksternal style.css yang akan mengatur tata letak dan tampilan halaman.
 
 ![html index 2](https://github.com/ayyubfaraby/pemweb/assets/124480416/a9cd53dc-22fe-42cd-ba11-955af00b7787)
 
-1.	<body>: Bagian ini berisi konten utama dari halaman web.
-2.	<ul>: Membuat daftar tak terurut (unordered list).
-3.	<li><a href="index.html">Home</a></li>: Menambahkan item daftar dengan tautan ke halaman "index.html" dengan teks "Home".
+1.	"body": Bagian ini berisi konten utama dari halaman web.
+2.	"ul": Membuat daftar tak terurut (unordered list).
+3.	"li""a href="index.html"Home/a/li": Menambahkan item daftar dengan tautan ke halaman "index.html" dengan teks "Home".
 4.	Item-item selanjutnya mengikuti pola yang serupa untuk menu navigasi.
-5.	<hr>: Memasukkan elemen garis horizontal sebagai pemisah antara menu navigasi dan konten utama.
-6.	<div style="text-align: center;">: Membuat suatu div dengan penataan teks ke tengah.
-7.	<h1>Selamat Datang Di Website Saya</h1>: Menampilkan judul besar.
-8.	<img width="900" src="Gambar/kaws.jpg">: Menampilkan gambar dengan lebar 900 piksel dari lokasi file "Gambar/kaws.jpg".
-9.	<h2>Brian Donnelly</h2>: Menampilkan subjudul.
-10.	<br>: Memasukkan jeda baris.
-11.	<div class="container">: Membuat suatu div dengan kelas "container".
-12.	<img width="400" src="Gambar/kaws 2.jpeg" alt="">: Menampilkan gambar dengan lebar 400 piksel dari lokasi file "Gambar/kaws 2.jpeg" dengan atribut alt kosong (teks alternatif).
+5.	"hr": Memasukkan elemen garis horizontal sebagai pemisah antara menu navigasi dan konten utama.
+6.	"div style="text-align: center;"": Membuat suatu div dengan penataan teks ke tengah.
+7.	"h1""Selamat Datang Di Website Saya"/h1": Menampilkan judul besar.
+8.	"img width="900" src="Gambar/kaws.jpg"": Menampilkan gambar dengan lebar 900 piksel dari lokasi file "Gambar/kaws.jpg".
+9.	"h2"Brian Donnelly"/h2": Menampilkan subjudul.
+10.	"br": Memasukkan jeda baris.
+11.	"div class="container"": Membuat suatu div dengan kelas "container".
+12.	"img width="400" src="Gambar/kaws 2.jpeg" alt=""": Menampilkan gambar dengan lebar 400 piksel dari lokasi file "Gambar/kaws 2.jpeg" dengan atribut alt kosong (teks alternatif).
 13.	Item-item gambar selanjutnya mengikuti pola yang serupa.
 
 

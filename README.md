@@ -409,16 +409,90 @@ C.  Penjelasan HTML Laman CONTACT
 12.	"img width="400" src="Gambar/kaws 2.jpeg" alt=""": Menampilkan gambar dengan lebar 400 piksel dari lokasi file "Gambar/kaws 2.jpeg" dengan atribut alt kosong (teks alternatif).
 13.	Item-item gambar selanjutnya mengikuti pola yang serupa.
 
+    E. Penjelasan HTML Laman Portofolio
+   	
+   	![portofolio 1](https://github.com/ayyubfaraby/pemweb/assets/124480416/5e205947-6d95-4ca9-b5e7-113d64b4b337)
+   	
+1.	“!DOCTYPE html”: Mendefinisikan versi HTML yang digunakan (HTML5).
+2.	“html lang="en"“: Memulai elemen HTML dengan atribut lang untuk menunjukkan bahasa (dalam hal ini bahasa Inggris).
+3.	“head”: Bagian ini berisi elemen-elemen yang memberikan informasi mengenai dokumen HTML seperti meta informasi, judul halaman, dan tautan ke file eksternal (CSS).
+4.	“meta charset="UTF-8"“: Menentukan pengkodean karakter UTF-8 untuk mendukung karakter internasional.
+5.	“meta name="viewport" content="width=device-width, initial-scale=1.0"“: Menentukan cara halaman akan di-render pada perangkat yang berbeda.
+6.	“link rel="stylesheet" href="style.css"“: Mengaitkan file CSS eksternal bernama "style.css" untuk mengatur gaya dan tata letak halaman.
+7.	“title”Porto”/title”: Judul atau nama halaman yang akan ditampilkan di tab peramban.
 
+  ![portofolio 2](https://github.com/ayyubfaraby/pemweb/assets/124480416/a0eaab2d-ebb2-42bb-b11e-0f7c4811b94f)
 
+1.	“body”: Bagian ini berisi konten utama dari halaman web.
+2.	“ul”: Membuat daftar tak terurut (unordered list) untuk menu navigasi.
+3.	“li”“a href="index.html"“Home”/a”“/li”: Menambahkan item daftar dengan tautan ke halaman "index.html" dengan teks "Home".
+4.	Item-item selanjutnya mengikuti pola yang serupa untuk menu navigasi.
+5.	“hr”: Memasukkan elemen garis horizontal sebagai pemisah antara menu navigasi dan konten utama.
+6.	“div class="container"“: Membuat suatu div dengan kelas "container".
+7.	Item-item gambar berikut ini adalah gambar-gambar yang ditampilkan dalam div tersebut. Setiap gambar memiliki lebar 400 piksel dan atribut alt kosong (teks alternatif).
 
+  F. Penjelasan CSS
 
+  ![css 1](https://github.com/ayyubfaraby/pemweb/assets/124480416/a074b0ee-77cb-4458-8bf8-7f8d32f06055)
 
+1.	body, ul: Ini adalah selektor CSS yang memilih elemen “body” dan “ul”. Hal ini berarti aturan yang didefinisikan akan berlaku untuk kedua elemen tersebut.
+2.	margin: 0; padding: 0;: Ini adalah deklarasi properti CSS yang mengatur margin dan padding untuk elemen yang dipilih. Dalam hal ini, nilai 0 digunakan untuk menghapus atau menghilangkan margin dan padding default yang diterapkan oleh browser.
 
+![css 2](https://github.com/ayyubfaraby/pemweb/assets/124480416/2aeca9b3-51f1-4e85-b6ef-5a34b04b7537)
 
+1.	font-family: Arial, sans-serif;: Properti CSS ini mengatur jenis font yang akan digunakan untuk teks pada elemen “body”. Font pertama yang akan dicoba adalah "Arial", dan jika tidak tersedia, akan menggunakan font tanpa serif ("sans-serif") sebagai alternatif.
+2.	background-color: #f0f0f0;: Properti CSS ini mengatur warna latar belakang (background color) untuk elemen “body”. Warna yang digunakan di sini adalah kode warna heksadesimal (#f0f0f0), yang mewakili warna abu-abu muda.
 
+![css 3](https://github.com/ayyubfaraby/pemweb/assets/124480416/b8b7fd42-fe23-4914-bab9-b0d33d8723a7)
 
+1.	header: Ini adalah selektor CSS yang memilih elemen “header”.
+2.	background-color: #333;: Mengatur warna latar belakang elemen “header” menjadi abu-abu tua (#333).
+3.	color: #fff;: Mengatur warna teks di dalam elemen “header” menjadi putih (#fff).
+4.	text-align: center;: Mengatur teks di dalam elemen “header” agar berada di tengah (centered).
+5.	padding: 10px 0;: Menentukan padding atas dan bawah sebesar 10 piksel dan padding kiri-kanan nol (0).
+6.	h1: Ini adalah selektor CSS yang memilih elemen “h1”.
+7.	font-size: 36px;: Mengatur ukuran font untuk elemen “h1” menjadi 36 piksel
 
+![css 4](https://github.com/ayyubfaraby/pemweb/assets/124480416/45fe6659-cb29-4c4b-90df-53f4ec90c8b1)
+
+1.	ul: Selektor CSS yang memilih elemen “ul”.
+2.	background-color: #333;: Mengatur warna latar belakang elemen “ul” (menu navigasi) menjadi abu-abu tua (#333).
+3.	list-style: none;: Menghilangkan gaya default daftar (seperti bulatan atau angka) dari elemen “ul”. Dalam hal ini, tidak akan ada tanda atau simbol yang menandai item daftar.
+4.	text-align: center;: Mengatur teks di dalam elemen “ul” agar berada di tengah (centered).
+5.	ul li: Selektor CSS yang memilih elemen “li” yang berada di dalam elemen “ul”. Ini akan mempengaruhi tampilan dari setiap item daftar dalam menu navigasi.
+6.	display: inline;: Mengatur elemen “li” agar ditampilkan secara inline, sehingga item daftar akan tampil sejajar satu sama lain.
+7.	margin-right: 20px;: Memberikan margin sebelah kanan sebesar 20 piksel antara setiap item daftar.
+8.	ul li a: Selektor CSS yang memilih elemen “a” yang berada di dalam elemen “li” di dalam elemen “ul”. Ini akan mempengaruhi tampilan dari tautan (link) di dalam menu navigasi.
+9.	text-decoration: none;: Menghilangkan dekorasi teks untuk tautan (misalnya, garis bawah).
+10.	color: #fff;: Mengatur warna teks untuk tautan menjadi putih (#fff).
+11.	font-weight: bold;: Mengatur tebal (bold) untuk teks tautan.
+
+![css 5](https://github.com/ayyubfaraby/pemweb/assets/124480416/def756bc-3002-4d1c-865e-7f3e0e305347)
+
+1.	.container: Ini adalah selektor CSS yang memilih elemen dengan kelas "container".
+2.	display: flex;: Mengatur elemen "container" sebagai kontainer fleksibel, yang memungkinkan pengaturan tata letak menggunakan flexbox.
+3.	justify-content: space-around;: Mengatur penyebaran item secara merata di sekitar kontainer, sehingga ada ruang yang seimbang antara item.
+4.	flex-wrap: wrap;: Mengizinkan elemen "container" untuk membungkus item jika tidak cukup ruang, sehingga item akan melanjutkan ke baris atau kolom berikutnya.
+5.	margin-top: 20px;: Menambahkan margin atas sebesar 20 piksel pada elemen "container".
+6.	.container img: Ini adalah selektor CSS yang memilih elemen gambar (“img”) yang berada di dalam elemen dengan kelas "container".
+7.	margin: 10px;: Menambahkan margin sebesar 10 piksel di sekitar setiap gambar.
+8.	border: 2px solid #333;: Menambahkan bingkai (border) dengan ketebalan 2 piksel dan warna abu-abu tua (#333) pada setiap gambar.
+9.	border-radius: 5px;: Mengatur sudut melengkung (radius sudut) pada bingkai gambar dengan radius 5 piksel.
+
+![css 6](https://github.com/ayyubfaraby/pemweb/assets/124480416/b0683efe-60b4-4925-99ce-2dd50e84926a)
+
+1.	footer: Ini adalah selektor CSS yang memilih elemen “footer”.
+2.	background-color: #333;: Mengatur warna latar belakang elemen “footer” menjadi abu-abu tua (#333).
+3.	color: #fff;: Mengatur warna teks di dalam elemen “footer” menjadi putih (#fff).
+4.	text-align: center;: Mengatur teks di dalam elemen “footer” agar berada di tengah (centered).
+5.	padding: 10px 0;: Menambahkan padding atas dan bawah sebesar 10 piksel dan padding kiri-kanan nol (0).
+
+![css 7](https://github.com/ayyubfaraby/pemweb/assets/124480416/8cf6e2c4-775d-4f70-9ab9-5e19ccbc5b5e)
+
+1.	.center-text: Ini adalah nama kelas CSS yang Anda tentukan untuk mengatur tampilan teks.
+2.	text-align: center;: Mengatur teks agar berada di tengah.
+3.	margin: 0 auto;: Memberikan margin nol (0) di atas dan bawah serta otomatis mengatur margin kiri dan kanan agar teks berada di tengah (dengan menggunakan "auto" pada margin horizontal).
+4.	width: 50%;: Mengatur lebar elemen dengan kelas .center-text menjadi 50%. Anda dapat menyesuaikan nilai ini sesuai dengan lebar yang Anda inginkan.
 
 
 

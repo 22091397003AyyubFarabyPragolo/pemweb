@@ -1,7 +1,5 @@
 # [PEMWEB](https://22091397003ayyubfarabypragolo.github.io/pemweb/html/index.html)
 
-html + css
-
 Software Requirements Specification
 for
 WEBSITE PRIBADI

@@ -76,20 +76,20 @@ Version
 
 
 
-Introduction
+1.1 Introduction
 Purpose 
 Dokumen ini berisi mengenai Spesifikasi Kebutuhan Perangkat Lunak mengenai web yang akan dirancang yaitu web pribadi. Tujuan dari penulisan ini adalah untuk mengetahui  kebutuhan apa saja yang dibutuhkan untuk melakukan pengembangan web pribadi tersebut lebih jelas dan terperinci. Dokumen ini diharapkan agar pengembangan dapat lebih terarah. Tujuan web ini dibuat adalah untuk membangun portofolio menjadi wadah pengembangan dan membantu mempromosikan terhadap calon klien 
 
-**1. 2    Document Conventions**
+1.2 Document Conventions
 <Describe any standards or typographical conventions that were followed when writing this SRS, such as fonts or highlighting that have special significance. For example, state whether priorities  for higher-level requirements are assumed to be inherited by detailed requirements, or whether every requirement statement is to have its own priority.>
 
-**1.3    Intended Audience and Reading Suggestions**
+1.3    Intended Audience and Reading Suggestions
 Dokumen ini ditujukan kepada
 Pengguna Web, agar pengguna web dapat mengetahui bagaimana cara pembuatan web pribadi sebagai wadah pengembangan dengan portofolio agar menarik  para klien.
 Tokoh Publik, seperti penulis, seniman atau selebritas, dapat memanfaatkan website pribadi untuk berinteraksi dengan penggemar, berbagi konten eksklusif atau memberikan pembaruan tentang mereka
 Pengajar atau seorang Ahli, web pribadi akan bermanfaat untuk pengajar atau seorang ahli dibidang tertentu untuk berbagi pengetahuan, artikel, tutorial atau sumber daya pendidikan.
 
-**1.4    Product Scope**
+1.4    Product Scope
 Ruang lingkup Website Pribadi meliputi bagian-bagian yang terdapat dalam Website Pribadi yang telah dibuat. Berikut deskripsi singkat mengenai ruang lingkup Website Pribadi ini:
 Halaman Utama, berisi tentang bagian-bagian yang terdapat dalam Website Pribadi.
 Tentang Saya, berisi tentang informasi pemiliknya seperti, biodata, pekerjaan, karakteristik, pengalaman pekerjaan, minat, dan hobi. Tentang Saya ini juga berfungsi untuk identitas online.
@@ -100,19 +100,19 @@ Kontak, Website Pribadi juga dapat berfungsi untuk menghubungi pemilik atau menj
 References
 <List any other documents or Web addresses to which this SRS refers. These may include user interface style guides, contracts, standards, system requirements specifications, use case documents, or a vision and scope document. Provide enough information so that the reader could access a copy of each reference, including title, author, version number, date, and source or location.>
 
-**Overall Description**
+Overall Description
 
-**Product Perspective**
+Product Perspective
 Website pribadi ini ialah sebuah website yang berisi tentang biodata admin. Website ini bertujuan untuk memperkenalkan biodata admin yang dapat membantu memudahkan pengunjung untuk mengetahui informasi mengenai admin seperti tentang saya(admin), portofolio dan lainnya. Tata letak website ini mudah dipahami karena navigasi yang jelas dan tak hanya itu di dalam web ini terdapat kontak untuk pertanyaan agar pengunjung dapat melakukan konsultasi di kontak tersebut
 
-**Product Functions**
+Product Functions
 Fungsi utama dari website pribadi ini antara lain:
 Personal Branding: website pribadi digunakan untuk memperkenalkan diri, riwayat pendidikan, pengalaman kerja, minat dan hobi. yang bertujuan untuk meningkatkan visibilitas dan reputasi di dunia online.
 Portofolio Profesional: website pribadi digunakan untuk menampilkan portofolio karya atau pencapaian.
 Penyampaian Informasi: website pribadi digunakan untuk berbagi informasi terkait bidang tertentu, bisa berupa blog pribadi.
 Kontak dan jaringan: website pribadi dapat digunakan untuk menghubungi pemilik website untuk membantu membangun dan memperluas jaringan profesional dan personal.
 
-**User Classes and Characteristics**
+User Classes and Characteristics
 
 Admin
 Memiliki akses dan kontrol penuh atas seluruh aspek website pribadi, termasuk konten, database, pengaturan, keamanan, fungsionalitas, serta memiliki hak dalam mengelola dan memodifikasi hal-hal yang ada di dalam website pribadi.
@@ -123,7 +123,7 @@ Individu yang mengunjungi website pribadi untuk mencari informasi, membaca konte
 
 
 
-**Operating Environment**
+Operating Environment
 1. Sistem Operasi --> Smartphone ios maupun android dan laptop atau PC
 2. Jaringan --> Terhubung dengan jaringan internet
 3. Perangkat keras --> Smartphone dan PC
@@ -132,10 +132,10 @@ Individu yang mengunjungi website pribadi untuk mencari informasi, membaca konte
 
 
 
-**Design and Implementation Constraints**
+Design and Implementation Constraints
 Halangan atau tantangan dari website ini adalah perlu menggunakan jaringan internet untuk mengakses website ini, bila tidak ada jaringan internet maka website ini tidak akan bekerja 
 
-**User Documentation**
+User Documentation
 Website pribadi ini akan tersedia halaman utama yang berisi tentang bagian-bagian yang terdapat dalam website, yaitu tentang saya yang berisi tentang biodata pemilik, portofolio menampilkan karya yang telah dibuat pemilik, blog menampilkan tentang informasi, dan kontak untuk menghubungi pemilik website pribadi. 
 
 Assumptions and Dependencies

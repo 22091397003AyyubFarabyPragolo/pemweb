@@ -50,13 +50,17 @@
           setTimeout(showSlides, 2000); // Ganti gambar setiap 2 detik
         }
 
-        const spans = document.querySelectorAll('h1 span')
-         spans.forEach (span => span.addEventListener('mouseover', function(e) {
-             span.classList.add('animated','rubberBand')
-         }))
-         span.forEach (span => span.addEventListener('mouseout',funciton(e){
-            span.classList.add('animated','rubberBand')
-         }))
+        const spans = document.querySelectorAll('h1 span');
+        spans.forEach(span => {
+        span.addEventListener('mouseover', function(e) {
+            span.classList.add('animated', 'rubberBand');
+        });
+
+      span.addEventListener('mouseout', function(e) {
+        span.classList.remove('animated', 'rubberBand');
+      });
+    });
+         
 
         </script>
   

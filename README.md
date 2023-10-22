@@ -154,6 +154,12 @@ Ketergantungan terhadap WhatsApp Business API untuk bisa menghubungi admin.
 External Interface Requirements
 User Interfaces
 
+Antarmuka Halaman sebelum menuju ke HOME
+
+
+  ![image](https://github.com/22091397003AyyubFarabyPragolo/pemweb/assets/144451923/ec964fd9-f66e-4a61-b41f-90c658a8c4f5)
+
+
 Antarmuka Halaman Home
 
 

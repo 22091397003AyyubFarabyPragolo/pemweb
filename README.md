@@ -87,10 +87,12 @@ Revision History	ii
 5.5	Business Rules	5
 
 6.	Other Requirements	5
-Appendix A: Glossary	5
-Appendix B: Analysis Models	5
-Appendix C: To Be Determined List	6
 
+Appendix A: Glossary	5
+
+Appendix B: Analysis Models	5
+
+Appendix C: To Be Determined List	6
 
 Revision History
 Name

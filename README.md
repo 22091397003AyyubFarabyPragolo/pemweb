@@ -105,59 +105,77 @@ Reason For Changes
 Version
 
 1.1 Introduction
+
 Purpose 
+
 Dokumen ini berisi mengenai Spesifikasi Kebutuhan Perangkat Lunak mengenai web yang akan dirancang yaitu web pribadi. Tujuan dari penulisan ini adalah untuk mengetahui  kebutuhan apa saja yang dibutuhkan untuk melakukan pengembangan web pribadi tersebut lebih jelas dan terperinci. Dokumen ini diharapkan agar pengembangan dapat lebih terarah. Tujuan web ini dibuat adalah untuk membangun portofolio menjadi wadah pengembangan dan membantu mempromosikan terhadap calon klien 
 
 1.2 Document Conventions
+
 <Describe any standards or typographical conventions that were followed when writing this SRS, such as fonts or highlighting that have special significance. For example, state whether priorities  for higher-level requirements are assumed to be inherited by detailed requirements, or whether every requirement statement is to have its own priority.>
 
 1.3    Intended Audience and Reading Suggestions
+
 Dokumen ini ditujukan kepada
 Pengguna Web, agar pengguna web dapat mengetahui bagaimana cara pembuatan web pribadi sebagai wadah pengembangan dengan portofolio agar menarik  para klien.
 Tokoh Publik, seperti penulis, seniman atau selebritas, dapat memanfaatkan website pribadi untuk berinteraksi dengan penggemar, berbagi konten eksklusif atau memberikan pembaruan tentang mereka
 Pengajar atau seorang Ahli, web pribadi akan bermanfaat untuk pengajar atau seorang ahli dibidang tertentu untuk berbagi pengetahuan, artikel, tutorial atau sumber daya pendidikan.
 
 1.4    Product Scope
+
 Ruang lingkup Website Pribadi meliputi bagian-bagian yang terdapat dalam Website Pribadi yang telah dibuat. Berikut deskripsi singkat mengenai ruang lingkup Website Pribadi ini:
+
 Halaman Utama, berisi tentang bagian-bagian yang terdapat dalam Website Pribadi.
+
 Tentang Saya, berisi tentang informasi pemiliknya seperti, biodata, pekerjaan, karakteristik, pengalaman pekerjaan, minat, dan hobi. Tentang Saya ini juga berfungsi untuk identitas online.
+
 Portofolio, untuk menampilkan kumpulan portofolio karya.
+
 Blog, digunakan untuk menulis blog pribadi tentang berbagai topik seperti kesenian.
+
 Kontak, Website Pribadi juga dapat berfungsi untuk menghubungi pemilik atau menjalin hubungan dengan orang lain.
 
 References
+
 <List any other documents or Web addresses to which this SRS refers. These may include user interface style guides, contracts, standards, system requirements specifications, use case documents, or a vision and scope document. Provide enough information so that the reader could access a copy of each reference, including title, author, version number, date, and source or location.>
 
 Overall Description
 
 Product Perspective
+
 Website pribadi ini ialah sebuah website yang berisi tentang biodata admin. Website ini bertujuan untuk memperkenalkan biodata admin yang dapat membantu memudahkan pengunjung untuk mengetahui informasi mengenai admin seperti tentang saya(admin), portofolio dan lainnya. Tata letak website ini mudah dipahami karena navigasi yang jelas dan tak hanya itu di dalam web ini terdapat kontak untuk pertanyaan agar pengunjung dapat melakukan konsultasi di kontak tersebut
 
+
 Product Functions
+
 Fungsi utama dari website pribadi ini antara lain:
 Personal Branding: website pribadi digunakan untuk memperkenalkan diri, riwayat pendidikan, pengalaman kerja, minat dan hobi. yang bertujuan untuk meningkatkan visibilitas dan reputasi di dunia online.
+
 Portofolio Profesional: website pribadi digunakan untuk menampilkan portofolio karya atau pencapaian.
 Penyampaian Informasi: website pribadi digunakan untuk berbagi informasi terkait bidang tertentu, bisa berupa blog pribadi.
 Kontak dan jaringan: website pribadi dapat digunakan untuk menghubungi pemilik website untuk membantu membangun dan memperluas jaringan profesional dan personal.
+
 
 User Classes and Characteristics
 
 Admin
 Memiliki akses dan kontrol penuh atas seluruh aspek website pribadi, termasuk konten, database, pengaturan, keamanan, fungsionalitas, serta memiliki hak dalam mengelola dan memodifikasi hal-hal yang ada di dalam website pribadi.
+
 Pengunjung
 Individu yang mengunjungi website pribadi untuk mencari informasi, membaca konten, atau menghubungi pemilik website pribadi.
 
 
-
-
-
 Operating Environment
-1. Sistem Operasi --> Smartphone ios maupun android dan laptop atau PC
-2. Jaringan --> Terhubung dengan jaringan internet
-3. Perangkat keras --> Smartphone dan PC
-4. API --> WhatsApp Business API
-5. Bahasa Pemrograman -->  HTML,CSS, dan JavaScript
 
+1. Sistem Operasi --> Smartphone ios maupun android dan laptop atau PC
+
+2. Jaringan --> Terhubung dengan jaringan internet
+
+3. Perangkat keras --> Smartphone dan PC
+
+4. API --> WhatsApp Business API
+
+5. Bahasa Pemrograman -->  HTML,CSS, dan JavaScript
 
 
 Design and Implementation Constraints
@@ -172,14 +190,8 @@ Membutuhkan koneksi internet untuk bisa menjalankan website ini.
 Ketergantungan terhadap WhatsApp Business API untuk bisa menghubungi admin.
 
 
-
-
-
-
-
-
-
 External Interface Requirements
+
 User Interfaces
 
 Antarmuka Halaman sebelum menuju ke HOME
@@ -219,23 +231,30 @@ Antarmuka Halaman Contact
 
 
 Hardware Interfaces
+
 Website Pribadi ini membutuhkan perangkat seluler yang mendukung, seperti Android atau IOS, dan PC.
 Software Interfaces
 
 Visual Studio Code
+
 Editor kode sumber ringan, kuat, dan dapat dikustomisasi.
 
 HTML (HyperText Markup Language)
+
 Bahasa markup untuk membuat struktur dan konten website.
 
 CSS (Cascading Style Sheets)
+
 Bahasa yang digunakan untuk mengatur tampilan dan desain website.
 
 JavaScript
+
 Bahasa pemrograman yang digunakan untuk interaktivitas dan logika di sisi klien (browser).
 
 Web Hosting
+
 Berfungsi untuk pengelolaan dan penyimpanan database
+
 
 Communications Interfaces
 
@@ -267,6 +286,8 @@ Contact
   
   Halaman ini digunakan untuk menghubungi pemilik website untuk membantu membangun dan memperluas jaringan profesional dan personal.
 
+
+
 Other Nonfunctional Requirements
 
 Performance Requirements
@@ -275,9 +296,11 @@ Kinerja website akan lancar bila kecepatan internet pengguna stabil.
 
 Website memberikan informasi tentang admin secara jelas.
 
+
 Safety Requirements
 
 Tingkat akses yang sesuai untuk setiap jenis pengguna dan batasi akses ke informasi hanya pada yang diperlukan.
+
 
 Security Requirements
 
@@ -287,7 +310,9 @@ membatasi jumlah percobaan masuk yang gagal untuk mencegah serangan berulang-ula
 
 melakukan pembaruan perangkat lunak secara teratur untuk mengatasi kerentanan keamanan yang ditentukan
 
+
 Software Quality Attributes
+
 Keamanan (Security):
 
 Perlindungan data pribadi pengguna
@@ -329,7 +354,6 @@ Flowchart
 ![WhatsApp Image 2023-09-07 at 14 53 14 (1)](https://github.com/ayyubfaraby/pemweb/assets/124480416/14b9dd1a-fd27-4b36-9516-b9e9f27e7877)
 
 Appendix C: To Be Determined List
-
 
 
 PENJELASAN CODINGAN

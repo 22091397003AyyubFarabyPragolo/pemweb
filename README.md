@@ -75,11 +75,17 @@ Revision History	ii
 4.2	System Feature 2 (and so on)	4
 
 5.	Other Nonfunctional Requirements	4
+
 5.1	Performance Requirements	4
+
 5.2	Safety Requirements	5
+
 5.3	Security Requirements	5
+
 5.4	Software Quality Attributes	5
+
 5.5	Business Rules	5
+
 6.	Other Requirements	5
 Appendix A: Glossary	5
 Appendix B: Analysis Models	5

@@ -502,7 +502,8 @@ C.  Penjelasan HTML Laman CONTACT
 
   F. Penjelasan JS
 
-![image](https://github.com/22091397003AyyubFarabyPragolo/pemweb/assets/144451923/29028add-3cfb-4290-b36b-970be0d7e8e1)
+  ![image](https://github.com/22091397003AyyubFarabyPragolo/pemweb/assets/144451923/07968683-7e9f-4d24-ac66-113a5da241c5)
+
 
 
 1. "let slideIndex = 0;" : Variabel "slideIndex" digunakan untuk melacak indeks gambar yang ditampilkan pada slideshow.

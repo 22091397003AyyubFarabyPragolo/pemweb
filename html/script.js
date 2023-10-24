@@ -14,14 +14,4 @@ let slideIndex = 0;
           slides[slideIndex - 1].style.display = 'block';
           setTimeout(showSlides, 2000); // Ganti gambar setiap 2 detik
         }
-             const spans = document.querySelectorAll('h1 span');
-        spans.forEach(span => {
-        span.addEventListener('mouseover', function(e) {
-            span.classList.add('animated', 'rubberBand');
-        });
-
-      span.addEventListener('mouseout', function(e) {
-        span.classList.remove('animated', 'rubberBand');
-      });
-    });
   alert("Hai Selamat datang di blog pribadi saya")

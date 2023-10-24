@@ -43,13 +43,21 @@ Revision History	ii
 1.5	References	1
 
 2.	Overall Description	2
+
 2.1	Product Perspective	2
+
 2.2	Product Functions	2
+
 2.3	User Classes and Characteristics	2
+
 2.4	Operating Environment	2
+
 2.5	Design and Implementation Constraints	2
+
 2.6	User Documentation	2
+
 2.7	Assumptions and Dependencies	3
+
 3.	External Interface Requirements	3
 3.1	User Interfaces	3
 3.2	Hardware Interfaces	3

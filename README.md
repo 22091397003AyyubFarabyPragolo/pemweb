@@ -1,15 +1,25 @@
 # [PEMWEB](https://22091397003ayyubfarabypragolo.github.io/pemweb/html/index.html)
 
 Software Requirements Specification
+
 for
+
 WEBSITE PRIBADI
+
 Version 1.0 approved
+
 Prepared by 
+
 Ayyub Faraby Pragolo (22091397003)
+
 Ananda Mayang Septia (22091397015)
+
 Shofiyun Nawal Fajriyah(22091397027)
+
 D4 Manajemen Informatika
+
 2022 A Fakultas Vokasi
+
 Universitas Negeri Surabaya
 
 2023

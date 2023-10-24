@@ -502,7 +502,8 @@ C.  Penjelasan HTML Laman CONTACT
 
   F. Penjelasan JS
 
-![js](https://github.com/22091397003AyyubFarabyPragolo/pemweb/assets/124480416/7470080c-063a-4007-8979-be0ab045f058)
+![image](https://github.com/22091397003AyyubFarabyPragolo/pemweb/assets/144451923/29028add-3cfb-4290-b36b-970be0d7e8e1)
+
 
 1. "let slideIndex = 0;" : Variabel "slideIndex" digunakan untuk melacak indeks gambar yang ditampilkan pada slideshow.
 2. "showSlides();" : Fungsi "showSlides" dipanggil saat halaman dimuat untuk pertama kali. Ini memulai slideshow gambar.

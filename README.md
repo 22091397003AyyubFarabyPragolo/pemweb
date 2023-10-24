@@ -25,14 +25,23 @@ Universitas Negeri Surabaya
 2023
 
 Table of Contents
+
 Table of Contents	ii
+
 Revision History	ii
+
 1.	Introduction	1
+
 1.1	Purpose	1
+
 1.2	Document Conventions	1
+
 1.3	Intended Audience and Reading Suggestions	1
+
 1.4	Product Scope	1
+
 1.5	References	1
+
 2.	Overall Description	2
 2.1	Product Perspective	2
 2.2	Product Functions	2

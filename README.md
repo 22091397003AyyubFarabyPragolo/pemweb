@@ -59,10 +59,15 @@ Revision History	ii
 2.7	Assumptions and Dependencies	3
 
 3.	External Interface Requirements	3
+
 3.1	User Interfaces	3
+
 3.2	Hardware Interfaces	3
+
 3.3	Software Interfaces	3
+
 3.4	Communications Interfaces	3
+
 4.	System Features	4
 4.1	System Feature 1	4
 4.2	System Feature 2 (and so on)	4

@@ -514,11 +514,7 @@ C.  Penjelasan HTML Laman CONTACT
 8. Jika "slideIndex" melebihi jumlah gambar yang tersedia ("slides.length"), maka diatur kembali ke 1 untuk memulai dari awal.
 9. Mengatur gambar yang sesuai dengan "slideIndex - 1" menjadi terlihat (style display diatur menjadi 'block').
 10. Menggunakan "setTimeout", fungsi "showSlides" dipanggil kembali setelah 2 detik (2000 milidetik) untuk mengganti gambar selanjutnya.
-11. Seleksi elemen dengan tag "h1" yang memiliki "span" dengan menggunakan "document.querySelectorAll('h1 span')".
-12. Menggunakan "forEach", mendapatkan setiap elemen "span" yang ditemukan dan menambahkan event listener pada masing-masing elemen:
-13. Saat mouse diarahkan ke atas elemen "span" ("mouseover"), kelas "animated" dan "rubberBand" ditambahkan ke elemen tersebut, sehingga terjadi animasi ketika mouse diarahkan ke atasnya.
-14. Saat mouse meninggalkan elemen "span" ("mouseout"), kelas "animated" dan "rubberBand" dihapus dari elemen tersebut, sehingga animasi dihentikan.
-15. Terakhir, program menampilkan pesan pop-up menggunakan "alert" yang berisi "Hai Selamat datang di blog pribadi saya". Pesan ini akan muncul saat halaman dimuat.
+11. Terakhir, program menampilkan pesan pop-up menggunakan "alert" yang berisi "Hai Selamat datang di blog pribadi saya". Pesan ini akan muncul saat halaman dimuat.
 
 
 

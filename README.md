@@ -69,8 +69,11 @@ Revision History	ii
 3.4	Communications Interfaces	3
 
 4.	System Features	4
+
 4.1	System Feature 1	4
+
 4.2	System Feature 2 (and so on)	4
+
 5.	Other Nonfunctional Requirements	4
 5.1	Performance Requirements	4
 5.2	Safety Requirements	5

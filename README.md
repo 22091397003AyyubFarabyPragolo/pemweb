@@ -221,7 +221,7 @@ Antarmuka Halaman Portofolio
 Antarmuka Halaman Blog
 
 
-  ![aselole666](https://github.com/22091397003AyyubFarabyPragolo/pemweb/assets/144770994/24d5d2dc-1e85-4e43-95e5-d9ee70b02d27)
+ ![aselole666](https://github.com/22091397003AyyubFarabyPragolo/pemweb/assets/144770994/24d5d2dc-1e85-4e43-95e5-d9ee70b02d27)
 
 
 

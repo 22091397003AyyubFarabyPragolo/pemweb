@@ -195,30 +195,37 @@ External Interface Requirements
 User Interfaces
 
 Antarmuka Halaman sebelum menuju ke HOME
+
   ![image](https://github.com/22091397003AyyubFarabyPragolo/pemweb/assets/144451923/ec964fd9-f66e-4a61-b41f-90c658a8c4f5)
 
 
 
 Antarmuka Halaman Home
+
   ![1](https://github.com/ayyubfaraby/pemweb/assets/144451923/2950895a-fda9-4319-ac29-b16304a66330)
 
 
+
 Antarmuka Halaman Tentang saya
+
   ![image](https://github.com/ayyubfaraby/pemweb/assets/144451923/f8595bdb-0c71-451f-bdc5-a1092ae1bb83)
   
 
 
 Antarmuka Halaman Portofolio
+
   ![image](https://github.com/ayyubfaraby/pemweb/assets/144451923/5f2b5ea8-c950-452e-a4ea-8d6e05bc5a34)
 
 
 
 Antarmuka Halaman Blog
+
  ![aselole666](https://github.com/22091397003AyyubFarabyPragolo/pemweb/assets/144770994/24d5d2dc-1e85-4e43-95e5-d9ee70b02d27)
 
 
 
 Antarmuka Halaman Contact
+
   ![image](https://github.com/ayyubfaraby/pemweb/assets/144451923/3baebe94-e79a-4a37-9698-8ff821e8d658)
 
 

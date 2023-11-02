@@ -469,7 +469,8 @@ C.  Penjelasan HTML Laman CONTACT
 
   E. Penjelasan HTML Laman Portofolio
  	
-   	![image](https://github.com/22091397003AyyubFarabyPragolo/pemweb/assets/124480416/dd2ee530-5359-449e-9f55-b69b526d5e7c)
+![portofolio 1 - Copy](https://github.com/22091397003AyyubFarabyPragolo/pemweb/assets/124480416/58a5eeca-8c03-4ed8-9798-9a089267497b)
+
 	
 1.	“!DOCTYPE html”: Mendefinisikan versi HTML yang digunakan (HTML5).
 2.	“html lang="en"“: Memulai elemen HTML dengan atribut lang untuk menunjukkan bahasa (dalam hal ini bahasa Inggris).

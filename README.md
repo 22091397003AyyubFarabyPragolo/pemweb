@@ -553,7 +553,7 @@ C.  Penjelasan HTML Laman CONTACT
 3.	margin: 0 auto;: Memberikan margin nol (0) di atas dan bawah serta otomatis mengatur margin kiri dan kanan agar teks berada di tengah (dengan menggunakan "auto" pada margin horizontal).
 40.	width: 50%;: Mengatur lebar elemen dengan kelas .center-text menjadi 50%. Anda dapat menyesuaikan nilai ini sesuai dengan lebar yang Anda inginkan.
 
-  F. Penjelasan JS
+  G. Penjelasan JS
 
   ![image](https://github.com/22091397003AyyubFarabyPragolo/pemweb/assets/144451923/07968683-7e9f-4d24-ac66-113a5da241c5)
 

@@ -133,7 +133,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
                             <button class="btn btn--radius-2 btn--blue" type="submit">Submit</button>
                         </div>
                         <div class="p-t-15">
-                        <a class="btn btn--radius-2 btn--blue" style="text-decoration:none" href="../Login/index.php" role="button">Back</a>
+                        <a class="btn btn--radius-2 btn--blue" style="text-decoration:none" href="../index.php" role="button">Back</a>
                         </div>
                         </div>
                     </form>
